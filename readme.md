@@ -13,7 +13,7 @@ Using free VPNServer: https://www.vpnbook.com/
 
 ## Installation
 
-1. Download the latest version of the application here: ![Releases](https://github.com/privatexpirate/LoginmateVPN/releases)
+1. Download the latest version of the application here: ![Releases](https://github.com/privpirate/LoginMate/releases)
 2. Start the Application inside the Folder.
 
 ## Usage
